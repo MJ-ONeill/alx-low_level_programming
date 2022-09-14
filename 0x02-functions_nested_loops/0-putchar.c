@@ -1,4 +1,5 @@
 #include "main.h"
+#include "0-putcher.c"
 
 /**
  * main -  print 0, followed by a new line
