@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-_putchar('\n');
+_putchar(0);
 
 	return (0);
 }
