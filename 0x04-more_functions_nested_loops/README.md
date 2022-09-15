@@ -26,4 +26,4 @@ File 101-print_number.c is a function that prints an integer using only _putchar
 
 File _putchar.c contains the _putchar() function definition.
 
-File holberton.h is the header file containing all the function prototypes used in this project.
+File main.h is the header file containing all the function prototypes used in this project.
