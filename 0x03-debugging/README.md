@@ -1,1 +1,1 @@
-running debbuging on C programming using mainfiles
+Currently working on README.md
